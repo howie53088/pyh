@@ -1,6 +1,6 @@
 # @file: pyh.py
 # @purpose: a HTML tag generator
-# @author: Emmanuel Turlay <turlay@cern.ch>
+# @author: EricLiu <49874522@@qq.com>
 
 __doc__ = """The pyh.py module is the core of the PyH package. PyH lets you
 generate HTML tags from within your python code.
